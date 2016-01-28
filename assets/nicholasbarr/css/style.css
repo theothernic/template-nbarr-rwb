@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,900);
-@import url('assets/nicholasbarr/css/flaticon.css');
+@import url('flaticon.css');
 body, html
 {
     padding: 0;
@@ -97,7 +97,7 @@ section.content
 
 section.content .body {
     padding: .2em;
-    background: url('assets/nicholasbarr/img/5076440.png');
+    background: url('../img/5076440.png');
 }
 
 section.content .body .inner
